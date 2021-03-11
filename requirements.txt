@@ -33,6 +33,7 @@ google-auth-oauthlib==0.4.3
 google-pasta==0.2.0
 graphviz==0.16
 grpcio==1.32.0
+gunicorn==20.0.4
 h5py @ file:///opt/concourse/worker/volumes/live/09cb9b5c-fac0-4b8e-4a2a-844fb10f14cb/volume/h5py_1593454153886/work
 idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
 importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
