@@ -1,11 +1,8 @@
 import streamlit as st
 import pandas as pd
-import pickle
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
-import tensorflow.compat.v1 as tf
-tf.disable_v2_behavior() 
 
 
 def app():
